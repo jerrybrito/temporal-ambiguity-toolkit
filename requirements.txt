@@ -1,0 +1,2 @@
+# Requires: virtual-ambiguity
+# (Not available on PyPI)
